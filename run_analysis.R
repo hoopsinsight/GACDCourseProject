@@ -1,3 +1,5 @@
+## Load dplyr package
+library(dplyr)
 ## Read the text files for into tables
 testreading <- read.table("./test/X_test.txt")
 subjects <- read.table("./test/subject_test.txt")
