@@ -6,7 +6,7 @@ Sean Vinsel for Coursera course "Getting and Cleaning Data"
 Based on data from
 Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto.
 Smartlab - Non Linear Complex Systems Laboratory
-DITEN - Università degli Studi di Genova.
+DITEN - Universit? degli Studi di Genova.
 Via Opera Pia 11A, I-16145, Genoa, Italy.
 activityrecognition@smartlab.ws
 www.smartlab.ws
@@ -31,6 +31,8 @@ The dataset includes the following files:
 - 'CodeBook.md': Shows information about the variables used on the feature vector and the analysis performed.
 
 - 'Course Project Data Set Vinsel.txt': Data set summarizing the average of all observations for the features, for each listed subject and activity
+
+-'run_analysis.R': R Script which performs the analysis described on the original dataset and creates 'Course Project Data Set Vinsel.txt'
 
 
 Notes: 
